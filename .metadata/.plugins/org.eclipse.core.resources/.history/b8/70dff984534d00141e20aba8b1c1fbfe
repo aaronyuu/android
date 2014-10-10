@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScrollView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="contents">aasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\naasdff\n asdf;dsf\n</string>
+
+</resources>
